@@ -12,6 +12,7 @@
 
 - 🔭 Building real-world systems with computer vision & AI
 - 🌱 Currently leveling up in DSA & System Design
+- 🎯 Open to opportunities
 - ⚡ Fun fact — when I'm not coding, I'm probably creating content
 
 <br/>
